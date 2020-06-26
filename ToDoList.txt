@@ -1,0 +1,11 @@
+【残り作業内容】
+・PC表示：headerの文字サイズ調整
+・About：メンバー紹介のボタンのサイズ調整
+・About：paddingやmarginの調整
+・javascriptのhamburgerのファイル名を変更するとアニメーションが動かない問題
+・d-clockのサイズ調整
+・floatingActionShareButtonの位置調整
+・footer_top,footer_middleの修正(中のデザイン全般)※デザインが初期の想定と大きく変わってきてしまっているので、そこの見直しも。
+・サイト全体の色をバランスよく変更(現状：わかりやすいように色分けしてるだけ)
+・バック側の処理をコーディング(Java,SpringFramework,Thymeleaf等を使用予定)
+・About：背景動画の撮影＆編集
